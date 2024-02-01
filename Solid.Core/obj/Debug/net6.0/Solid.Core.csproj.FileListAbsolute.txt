@@ -1,0 +1,63 @@
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\MishnatYosef-with-solid\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\MishnatYosef-with-solid\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\MishnatYosef-with-solid\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\MishnatYosef-with-solid\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\MishnatYosef-with-solid\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\MishnatYosef-with-solid\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\MishnatYosef-with-solid\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\MishnatYosef-with-solid\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\MishnatYosef-with-solid\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\MishnatYosef-with-solid\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\MishnatYosef-with-solid\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\MishnatYosef-with-solid\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\11-01\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\11-01\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\11-01\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\11-01\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_3\ווייל  בתיה\דוטנט\11-01\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\11-01\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\11-01\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\11-01\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\11-01\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\11-01\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\User\Desktop\11-01\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\User\Desktop\11-01\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Desktop\11-01\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Desktop\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Desktop\11-01\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\User\Desktop\11-01\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Desktop\11-01\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקט דוטנט מעודכן 31-01\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקט דוטנט מעודכן 31-01\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקט דוטנט מעודכן 31-01\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקט דוטנט מעודכן 31-01\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקט דוטנט מעודכן 31-01\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקט דוטנט מעודכן 31-01\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקט דוטנט מעודכן 31-01\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקט דוטנט מעודכן 31-01\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקט דוטנט מעודכן 31-01\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקט דוטנט מעודכן 31-01\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקט דוטנט מעודכן 31-01\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקט דוטנט מעודכן 31-01\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\פרויקט דוטנט מעודכן 31-01\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\פרויקט דוטנט מעודכן 31-01\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+Y:\Groups\Group_3\ווייל  בתיה\dotnet\פרויקט דוטנט מעודכן 31-01\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
