@@ -9,10 +9,10 @@ namespace Solid.Core.Services
 {
     public interface IStationServices
     {
-        List<Station> GetListItems();
+        Task<List<Station>> GetListItemsAsync();
         Station GetByIdItem(int id);
-        Station UpdateItem(int id, Station station);
-        Station AddItem(Station station);
-        void RemoveItem(int id);
+        Task<Station> UpdateItemAsync(int id, Station station);
+        Task<Station> AddItemAsync(Station station);
+        Task RemoveItemAsync(int id);
     }
 }

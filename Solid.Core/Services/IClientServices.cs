@@ -9,10 +9,10 @@ namespace Solid.Core.Services
 {
     public interface IClientServices
     {
-        List<Client> GetListItems();
+       Task< List<Client>> GetListItemsAsync();
         Client GetByIdItem(int id);
-        Client UpdateItem(int id, Client client);
-        Client AddItem(Client client);
-        void RemoveItem(int id);
+        Task<Client> UpdateItemAsync(int id, Client client);
+        Task<Client> AddItemAsync(Client client);
+        Task RemoveItemAsync(int id);
     }
 }

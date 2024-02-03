@@ -16,9 +16,9 @@ namespace Solid.Service
         {
             _stationRepository = stationRepository;
         }
-        public Station AddItem(Station station)
+        public async Task<Station> AddItemAsync(Station station)
         {
-            _stationRepository.Add(station);
+           await _stationRepository.AddAsync(station);
             return station;
         }
 
@@ -27,19 +27,19 @@ namespace Solid.Service
             return _stationRepository.GetById(id);
         }
 
-        public List<Station> GetListItems()
+        public async Task<List<Station>> GetListItemsAsync()
         {
-            return _stationRepository.GetList().ToList();
+            return await _stationRepository.GetListAsync();
         }
 
-        public void RemoveItem(int id)
+        public async Task RemoveItemAsync(int id)
         {
-            _stationRepository.Remove(id);
+            await _stationRepository.RemoveAsync(id);
         }
 
-        public Station UpdateItem(int id, Station station)
+        public async Task<Station> UpdateItemAsync(int id, Station station)
         {
-            _stationRepository.Update(id, station);
+           await _stationRepository.UpdateAsync(id, station);
             return station;
         }
     }

@@ -9,10 +9,10 @@ namespace Solid.Core.Repositories
 {
     public interface IStationRepository
     {
-        List<Station> GetList();
+        Task<List<Station>> GetListAsync();
         Station GetById(int id);
-        Station Update(int id, Station station);
-        Station Add(Station station);
-        void Remove(int id);
+        Task<Station> UpdateAsync(int id, Station station);
+        Task<Station> AddAsync(Station station);
+        Task RemoveAsync(int id);
     }
 }

@@ -17,7 +17,7 @@ namespace Solid.Data
         //DbContextOptionsBuilder
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=new-2");
+            optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=new-db");
         }
     }
 }

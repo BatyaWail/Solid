@@ -18,9 +18,9 @@ namespace Solid.Service
             _clientRepository = clientRepository;
         }
 
-        public Client AddItem(Client client)
+        public async Task<Client> AddItemAsync(Client client)
         {
-            _clientRepository.Add(client);
+           await _clientRepository.AddAsync(client);
             return client;
         }
 
@@ -30,19 +30,19 @@ namespace Solid.Service
             //return OkObjectResult(_clientRepository.GetById(id));
         }
 
-        public List<Client> GetListItems()
+        public async Task<List<Client>> GetListItemsAsync()
         {
-            return _clientRepository.GetList().ToList();
+             return await _clientRepository.GetListAsync();//.ToList();
         }
 
-        public void RemoveItem(int id)
+        public async Task RemoveItemAsync(int id)
         {
-            _clientRepository.Remove(id);
+           await _clientRepository.RemoveAsync(id);
         }
 
-        public Client UpdateItem(int id, Client client)
+        public async Task<Client> UpdateItemAsync(int id, Client client)
         {
-            _clientRepository.Update(id, client);
+             await _clientRepository.UpdateAsync(id, client);
             return client;
         }
     }

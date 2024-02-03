@@ -19,10 +19,10 @@ namespace Solid.Data
             _dataContext = dataContext;
         }
 
-        public Station Add(Station station)
+        public async Task<Station> AddAsync(Station station)
         {
             _dataContext.stations.Add(station);
-            _dataContext.SaveChanges();
+            await _dataContext.SaveChangesAsync();
             return station;
         }
 
@@ -32,24 +32,24 @@ namespace Solid.Data
 
         }
 
-        public List<Station> GetList()
+        public async Task<List<Station>> GetListAsync()
         {
-            return _dataContext.stations.Include(s => s.Clients)
+            return await _dataContext.stations.Include(s => s.Clients)
                 //.Include(s => s.Products)
-                .ToList();
+                .ToListAsync();
         }
 
-        public void Remove(int id)
+        public async Task RemoveAsync(int id)
         {
             _dataContext.stations.Remove(_dataContext.stations.ToList().Find(x => x.Id == id));
-            _dataContext.SaveChanges();
+            await _dataContext.SaveChangesAsync();
         }
 
-        public Station Update(int id, Station station)
+        public async Task<Station> UpdateAsync(int id, Station station)
         {
             int x = _dataContext.stations.ToList().FindIndex(x => x.Id == id);
             _dataContext.stations.ToList()[x] = station;
-            _dataContext.SaveChanges();
+            await _dataContext.SaveChangesAsync();
             return station;
         }
     }

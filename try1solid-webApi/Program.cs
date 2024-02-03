@@ -5,6 +5,7 @@ using Solid.Service;
 using Solid.Core.Repositories;
 using Solid.Data;
 using System.Text.Json.Serialization;
+using Solid.Core;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,6 +29,9 @@ builder.Services.AddScoped<IStationServices, StationService>();
 builder.Services.AddScoped<IClientServices, ClientServices>();
 //builder.Services.AddSingleton<DataContext>();
 builder.Services.AddDbContext<DataContext>();
+//builder.Services.AddAutoMapper(typeof(MappingProfile));
+builder.Services.AddAutoMapper(typeof(MappingProfile));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

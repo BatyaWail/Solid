@@ -1,4 +1,5 @@
 ﻿//using AutoMapper;
+using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Solid.Core.DTOs;
 using Solid.Core.Models;
@@ -15,66 +16,57 @@ namespace Solid.Api.Controllers
     public class ClientController : ControllerBase
     {
         private readonly IClientServices _clientServices;
-        //private readonly IMapper _mapper;
+        private readonly IMapper _mapper;
 
-        public ClientController(IClientServices clientServices/*,IMapper mapper*/)
+        public ClientController(IClientServices clientServices, IMapper mapper)
         {
             _clientServices = clientServices;
-            //_mapper = mapper;
+            _mapper = mapper;
         }
 
         // GET: api/<ProductController>
         [HttpGet]
-        //public ActionResult<IEnumerator<ClientDto>> Get()
-        //{
-        //    var clients = _clientServices.GetListItems();
-        //    var clientsDto = _mapper.Map<IEnumerator<ClientDto>>(clients);
-        //    return Ok(clientsDto);
-        //}
-        public ActionResult Get()
+        public async Task<ActionResult> GetAsync()//למה לא טוב?????????.
         {
-            var clients = _clientServices.GetListItems();
-            return Ok(clients);
+             var clients = await _clientServices.GetListItemsAsync();
+            var clientsDto = _mapper.Map<IEnumerator<ClientDto>>(clients);
+            return Ok(clientsDto);
+
         }
 
-        // GET api/<ProductController>/5
-        //[HttpGet("{id}")]
-        //public ActionResult Get(int id)
-        //{
-        //    var client = _clientServices.GetByIdItem(id);
-        //    var clientDto = _mapper.Map<ClientDto>(client);
-        //    return Ok(clientDto);
-        //}
+
         // GET api/<ProductController>/5
         [HttpGet("{id}")]
         public ActionResult Get(int id)
         {
             var client = _clientServices.GetByIdItem(id);
-            return Ok(client);
+            var clientDto = _mapper.Map<ClientDto>(client);
+            return Ok(clientDto);
         }
 
         // POST api/<ProductController>
         [HttpPost]
-        public ActionResult Post([FromBody] ClientPostModel value)
+        public async Task<ActionResult> PostAsync([FromBody] ClientPostModel value)
         {
             Client clientToAdd = new Client() { Name = value.Name, Address = value.Address, Pone = value.Pone, StationId = value.StationId };
-            return Ok( _clientServices.AddItem(clientToAdd));
+            var client= await _clientServices.AddItemAsync(clientToAdd);
+            return Ok(client);
         }
 
         // PUT api/<ProductController>/5
         [HttpPut("{id}")]
-        public ActionResult Put(int id, [FromBody] ClientPostModel value)
+        public async Task<ActionResult> PutAsync(int id, [FromBody] ClientPostModel value)
         {
             Client clientToUpdate = new Client() { Name = value.Name, Address = value.Address, Pone = value.Pone, StationId = value.StationId };
-
-            return Ok( _clientServices.UpdateItem(id, clientToUpdate));
+            //var client = await _clientServices.UpdateItemAsync(id, clientToUpdate);
+            return  Ok(await _clientServices.UpdateItemAsync(id, clientToUpdate));
         }
 
         // DELETE api/<ProductController>/5
         [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        public async Task<ActionResult> Delete(int id)
         {
-            _clientServices.RemoveItem(id);
+            await _clientServices.RemoveItemAsync(id);
             return Ok();
         }
     }

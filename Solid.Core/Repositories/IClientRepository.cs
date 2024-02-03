@@ -9,10 +9,10 @@ namespace Solid.Core.Repositories
 {
     public interface IClientRepository
     {
-        List<Client> GetList();
+        Task<List<Client>> GetListAsync();
         Client GetById(int id);
-        Client Update(int id, Client client);
-        Client Add(Client client);
-        void Remove(int id);
+        Task<Client> UpdateAsync(int id, Client client);
+        Task<Client> AddAsync(Client client);
+        Task RemoveAsync(int id);
     }
 }

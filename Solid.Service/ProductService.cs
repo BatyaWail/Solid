@@ -16,9 +16,9 @@ namespace Solid.Service
         {
             _productRepository = productRepository;
         }
-        public Product AddItem(Product product)
+        public async Task<Product> AddItemAsync(Product product)
         {
-            _productRepository.Add(product);
+            await _productRepository.AddAsync(product);
             return product;
         }
 
@@ -27,19 +27,19 @@ namespace Solid.Service
             return _productRepository.GetById(id);
         }
 
-        public List<Product> GetListItems()
+        public async Task<List<Product>> GetListItemsAsync()
         {
-            return _productRepository.GetList();
+            return await _productRepository.GetListAsync();
         }
 
-        public void RemoveItem(int id)
+        public async Task RemoveItemAsync(int id)
         {
-            _productRepository.Remove(id);
+            await _productRepository.RemoveAsync(id);
         }
 
-        public Product UpdateItem(int id, Product product)
+        public async Task<Product> UpdateItemAsync(int id, Product product)
         {
-            _productRepository.Update(id, product);
+           await _productRepository.UpdateAsync(id, product);
             return product;
 
         }

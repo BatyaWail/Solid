@@ -18,10 +18,10 @@ namespace Solid.Data
         {
             _dataContext = dataContext;
         }
-        public Client Add(Client client)
+        public async Task<Client> AddAsync(Client client)
         {
             _dataContext.clients.Add(client);
-            _dataContext.SaveChanges();
+            await _dataContext.SaveChangesAsync();
             return client;
         }
 
@@ -29,22 +29,22 @@ namespace Solid.Data
         {
            return _dataContext.clients.ToList().Find(x => x.Id == id);
         }
-        public List<Client> GetList()
+        public async Task<List<Client>> GetListAsync()
         {
-            return _dataContext.clients.Include(u => u.Station).ToList();
+            return await _dataContext.clients.Include(u => u.Station).ToListAsync();
         }
 
-        public void Remove(int id)
+        public async Task RemoveAsync(int id)
         {
             _dataContext.clients.Remove(_dataContext.clients.ToList().Find(x => x.Id == id));
-            _dataContext.SaveChanges();
+            await _dataContext.SaveChangesAsync();
         }
 
-        public Client Update(int id, Client client)
+        public async Task<Client> UpdateAsync(int id, Client client)
         {
             int x = _dataContext.clients.ToList().FindIndex(x => x.Id == id);
             _dataContext.clients.ToList()[x] = client;
-            _dataContext.SaveChanges();
+           await _dataContext.SaveChangesAsync();
             return client;
         }
     }

@@ -12,10 +12,10 @@ namespace Solid.Data
             _dataContext = dataContext;
         }
 
-        public Product Add(Product product)
+        public async Task<Product> AddAsync(Product product)
         {
             _dataContext.products.Add(product);
-            _dataContext.SaveChanges();
+            await _dataContext.SaveChangesAsync();
             return product;
         }
 
@@ -25,22 +25,22 @@ namespace Solid.Data
 
         }
 
-        public List<Product> GetList()
+        public async Task<List<Product>> GetListAsync()
         {
-            return _dataContext.products.Include(p => p.Station).ToList();
+            return await _dataContext.products.Include(p => p.Station).ToListAsync();
         }
 
-        public void Remove(int id)
+        public async Task RemoveAsync(int id)
         {
             _dataContext.products.Remove(_dataContext.products.ToList().Find(x => x.Id == id));
-            _dataContext.SaveChanges();
+           await _dataContext.SaveChangesAsync();
         }
 
-        public Product Update(int id, Product product)
+        public async Task<Product> UpdateAsync(int id, Product product)
         {
             int x = _dataContext.products.ToList().FindIndex(x => x.Id == id);
             _dataContext.products.ToList()[x] = product;
-            _dataContext.SaveChanges();
+           await _dataContext.SaveChangesAsync();
             return product;
         }
     }

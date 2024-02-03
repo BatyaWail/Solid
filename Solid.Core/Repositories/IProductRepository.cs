@@ -9,10 +9,10 @@ namespace Solid.Core.Repositories
 {
     public interface IProductRepository
     {
-        List<Product> GetList();
+        Task<List<Product>> GetListAsync();
         Product GetById(int id);
-        Product Update(int id, Product product);
-        Product Add(Product product);
-        void Remove(int id);
+        Task<Product> UpdateAsync(int id, Product product);
+        Task<Product> AddAsync(Product product);
+        Task RemoveAsync(int id);
     }
 }
