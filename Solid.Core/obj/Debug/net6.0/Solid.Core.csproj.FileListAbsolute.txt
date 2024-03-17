@@ -85,3 +85,4 @@ C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויק�
 C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
 C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
 C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\Solid.Core\obj\Debug\net6.0\Solid.Core.sourcelink.json

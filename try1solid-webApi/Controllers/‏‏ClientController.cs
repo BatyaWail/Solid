@@ -25,13 +25,20 @@ namespace Solid.Api.Controllers
         }
 
         // GET: api/<ProductController>
-        [HttpGet]
-        public async Task<ActionResult> GetAsync()//למה לא טוב?????????.
-        {
-             var clients = await _clientServices.GetListItemsAsync();
-            var clientsDto = _mapper.Map<IEnumerator<ClientDto>>(clients);
-            return Ok(clientsDto);
+        //[HttpGet]
+        //public async Task<ActionResult> GetAsync()//למה לא טוב?????????.
+        //{
+        //     var clients = await _clientServices.GetListItemsAsync();
+        //    var clientsDto = _mapper.Map<IEnumerator<ClientDto>>(clients);
+        //    return Ok(clientsDto);
 
+        //}
+        [HttpGet]
+        public async Task<ActionResult> GetAsync()
+        {
+            var clients = await _clientServices.GetListItemsAsync();
+            var clientsDto = _mapper.Map<List<ClientDto>>(clients);
+            return Ok(clientsDto);
         }
 
 

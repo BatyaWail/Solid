@@ -518,9 +518,15 @@ C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויק�
 C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\scopedcss\bundle\Solid.Api.styles.css
-C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\Solid.Api.csproj.CopyComplete
 C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\Solid.Api.dll
 C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\refint\Solid.Api.dll
 C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\Solid.Api.pdb
 C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\Solid.Api.genruntimeconfig.cache
 C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\ref\Solid.Api.dll
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\Solid.Api.sourcelink.json
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\staticwebassets\msbuild.Solid.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Solid.Api.props
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Solid.Api.props
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Solid.Api.props
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\!תכנות\שנה ב\.Net Core (דוטנט)\פרויקטים שלי\01-02\try1solid-webApi\obj\Debug\net6.0\Solid.Api.csproj.Up2Date

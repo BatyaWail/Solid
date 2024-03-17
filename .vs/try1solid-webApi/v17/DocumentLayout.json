@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{789C6587-FED2-4BE2-8654-B268FBFEFB6C}|try1solid-webApi\\Solid.Api.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\try1solid-webapi\\controllers\\\u200F\u200Fstationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789C6587-FED2-4BE2-8654-B268FBFEFB6C}|try1solid-webApi\\Solid.Api.csproj|solutionrelative:try1solid-webapi\\controllers\\\u200F\u200Fstationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.core\\dtos\\stationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\stationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789C6587-FED2-4BE2-8654-B268FBFEFB6C}|try1solid-webApi\\Solid.Api.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\try1solid-webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789C6587-FED2-4BE2-8654-B268FBFEFB6C}|try1solid-webApi\\Solid.Api.csproj|solutionrelative:try1solid-webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789C6587-FED2-4BE2-8654-B268FBFEFB6C}|try1solid-webApi\\Solid.Api.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\try1solid-webapi\\controllers\\\u200F\u200Fclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789C6587-FED2-4BE2-8654-B268FBFEFB6C}|try1solid-webApi\\Solid.Api.csproj|solutionrelative:try1solid-webapi\\controllers\\\u200F\u200Fclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CCB586-4471-40DB-B816-31A0604343E1}|Solid.Data\\Solid.Data.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.data\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CCB586-4471-40DB-B816-31A0604343E1}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789C6587-FED2-4BE2-8654-B268FBFEFB6C}|try1solid-webApi\\Solid.Api.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\try1solid-webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789C6587-FED2-4BE2-8654-B268FBFEFB6C}|try1solid-webApi\\Solid.Api.csproj|solutionrelative:try1solid-webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.core\\services\\iclientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\services\\iclientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.core\\repositories\\istationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\repositories\\istationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70481558-3923-4388-A686-4CC28521FCF2}|Solid.Service\\Solid.Service.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.service\\stationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70481558-3923-4388-A686-4CC28521FCF2}|Solid.Service\\Solid.Service.csproj|solutionrelative:solid.service\\stationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.core\\services\\istationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\services\\istationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CCB586-4471-40DB-B816-31A0604343E1}|Solid.Data\\Solid.Data.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.data\\stationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CCB586-4471-40DB-B816-31A0604343E1}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\stationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.core\\services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70481558-3923-4388-A686-4CC28521FCF2}|Solid.Service\\Solid.Service.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70481558-3923-4388-A686-4CC28521FCF2}|Solid.Service\\Solid.Service.csproj|solutionrelative:solid.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544B9826-BFA9-46D1-9C6B-CE634E270054}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CCB586-4471-40DB-B816-31A0604343E1}|Solid.Data\\Solid.Data.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CCB586-4471-40DB-B816-31A0604343E1}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70481558-3923-4388-A686-4CC28521FCF2}|Solid.Service\\Solid.Service.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.service\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70481558-3923-4388-A686-4CC28521FCF2}|Solid.Service\\Solid.Service.csproj|solutionrelative:solid.service\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CCB586-4471-40DB-B816-31A0604343E1}|Solid.Data\\Solid.Data.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CCB586-4471-40DB-B816-31A0604343E1}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CCB586-4471-40DB-B816-31A0604343E1}|Solid.Data\\Solid.Data.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\solid.data\\migrations\\20240201212120_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CCB586-4471-40DB-B816-31A0604343E1}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\migrations\\20240201212120_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\MappingProfile.cs",
+              "RelativeToolTip": "Solid.Core\\MappingProfile.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:49:40.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Service\\StationService.cs",
+              "RelativeDocumentMoniker": "Solid.Service\\StationService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Service\\StationService.cs",
+              "RelativeToolTip": "Solid.Service\\StationService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T23:39:47.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\Repositories\\IStationRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Repositories\\IStationRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\Repositories\\IStationRepository.cs",
+              "RelativeToolTip": "Solid.Core\\Repositories\\IStationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T23:38:40.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Data\\StationRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\StationRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Data\\StationRepository.cs",
+              "RelativeToolTip": "Solid.Data\\StationRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwB4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T23:36:34.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u200F\u200FClientController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\try1solid-webApi\\Controllers\\\u200F\u200FClientController.cs",
+              "RelativeDocumentMoniker": "try1solid-webApi\\Controllers\\\u200F\u200FClientController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\try1solid-webApi\\Controllers\\\u200F\u200FClientController.cs",
+              "RelativeToolTip": "try1solid-webApi\\Controllers\\\u200F\u200FClientController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T20:55:55.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\try1solid-webApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "try1solid-webApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\try1solid-webApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "try1solid-webApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA2wCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T20:55:55.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u200F\u200FStationController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\try1solid-webApi\\Controllers\\\u200F\u200FStationController.cs",
+              "RelativeDocumentMoniker": "try1solid-webApi\\Controllers\\\u200F\u200FStationController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\try1solid-webApi\\Controllers\\\u200F\u200FStationController.cs",
+              "RelativeToolTip": "try1solid-webApi\\Controllers\\\u200F\u200FStationController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAuwDIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T23:43:01.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StationDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\DTOs\\StationDto.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\StationDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\DTOs\\StationDto.cs",
+              "RelativeToolTip": "Solid.Core\\DTOs\\StationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:49:01.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClientServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\Services\\IClientServices.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Services\\IClientServices.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\Services\\IClientServices.cs",
+              "RelativeToolTip": "Solid.Core\\Services\\IClientServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T23:04:33.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Data\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Data\\ClientRepository.cs",
+              "RelativeToolTip": "Solid.Data\\ClientRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwCYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T23:07:19.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\try1solid-webApi\\Program.cs",
+              "RelativeDocumentMoniker": "try1solid-webApi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\try1solid-webApi\\Program.cs",
+              "RelativeToolTip": "try1solid-webApi\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T20:55:55.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStationServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\Services\\IStationServices.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Services\\IStationServices.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\Services\\IStationServices.cs",
+              "RelativeToolTip": "Solid.Core\\Services\\IStationServices.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvw8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T23:41:45.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\Services\\IProductServices.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Services\\IProductServices.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\Services\\IProductServices.cs",
+              "RelativeToolTip": "Solid.Core\\Services\\IProductServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T23:33:48.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Core\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Solid.Core\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T23:30:56.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Data\\ProductRepository.cs",
+              "RelativeToolTip": "Solid.Data\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T23:27:55.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Service\\ClientServices.cs",
+              "RelativeDocumentMoniker": "Solid.Service\\ClientServices.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Service\\ClientServices.cs",
+              "RelativeToolTip": "Solid.Service\\ClientServices.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T20:55:55.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Solid.Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Service\\ProductService.cs",
+              "RelativeToolTip": "Solid.Service\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T20:55:55.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240201212120_init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Data\\Migrations\\20240201212120_init.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\Migrations\\20240201212120_init.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Data\\Migrations\\20240201212120_init.cs",
+              "RelativeToolTip": "Solid.Data\\Migrations\\20240201212120_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T20:55:55.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.Net Core (\u05D3\u05D5\u05D8\u05E0\u05D8)\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\01-02\\Solid.Data\\DataContext.cs",
+              "RelativeToolTip": "Solid.Data\\DataContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T20:55:55.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

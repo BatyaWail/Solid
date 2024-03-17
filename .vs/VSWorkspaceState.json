@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\try1solid-webApi",
+    "\\try1solid-webApi\\Controllers"
   ],
-  "SelectedNode": "\\try1solid-webApi",
+  "SelectedNode": "\\try1solid-webApi\\Controllers\\‏‏StationController.cs",
   "PreviewInSolutionExplorer": false
 }
